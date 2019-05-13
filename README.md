@@ -53,3 +53,6 @@ Refer to a public kernel: [Feature engineering, xgboost](https://www.kaggle.com/
 - select best features
 - set validation strategy 34 test, 33 validation, less than 33 train
 - fit the model, predict and clip targets for the test set
+
+## Result
+![](https://i.imgur.com/Q2YwdSa.png)
